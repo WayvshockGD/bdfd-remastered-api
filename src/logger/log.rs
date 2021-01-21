@@ -1,8 +1,8 @@
 struct logger_emotes {
     error : {
-        warning : "warning ⚠️",
-        error : "error ❌",
-        danger : "danger 🚫"
+        warning       : "warning ⚠",
+        serverError   : "error ❌",
+        danger        : "danger 🚫"
     },
     success : {
         success : "success ✅"
